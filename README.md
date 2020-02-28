@@ -1,6 +1,6 @@
-# https://online-audio-convert.com
+# Online audio converter
 
-Online converter that converts audio music to your browser.
+Online converter https://online-audio-convert.com that converts audio music to your browser.
 The converter supports the following audio formats:
 
 AAC (Advanced Audio Coding)
@@ -56,3 +56,5 @@ WAV (Waveform Audio File Format: a format for storing digitized sound recordings
 WV (WavPack: a free lossless audio codec)
 
 AVI (Audio Video Interleave)
+
+The conversion is based on https://en.wikipedia.org/wiki/FFmpeg and is wrapped in a convenient web interface.
