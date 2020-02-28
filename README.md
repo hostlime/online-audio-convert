@@ -4,6 +4,7 @@ Online converter that converts audio music to your browser.
 The converter supports the following audio formats:
 
 AAC (Advanced Audio Coding)
+
 AC3 (AC3: a Dolby Digital audio file)
 AIFF (AIFF: a high-quality audio file)
 AMR (Adaptive Multi Rate): adaptive encoding with variable bitrate
