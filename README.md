@@ -4,14 +4,23 @@ Online converter https://online-audio-convert.com that converts audio music to y
 The converter supports the following audio formats:
 
 AAC (Advanced Audio Coding)
+
 AC3 (AC3: a Dolby Digital audio file)
+
 AIFF (AIFF: a high-quality audio file)
+
 AMR (Adaptive Multi Rate): adaptive encoding with variable bitrate
+
 AU (format for reliable data storage)
+
 CAF (Core Audio Format)
+
 CDDA (CD Digital Audio File)
+
 DSS (Digital Speech Standard)
+
 DTS (Digital Theater System)
+
 FLAC (ree Lossless Audio Codec: a popular free codec)
 
 GSM (GSM digital audio format)
